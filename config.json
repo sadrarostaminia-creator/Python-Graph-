@@ -1,0 +1,7 @@
+{
+  "core_power": 0,
+  "pump_speed": 0,
+  "turbine_rpm": 0,
+  "grid_load": 0,
+  "debug_overlay": false
+}
